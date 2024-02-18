@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f497591dd344040c",
+        "id": "fc49f859099e5431",
         "type": "tabs",
         "children": [
           {
-            "id": "f82f9448d5ccda32",
+            "id": "ee96fa90687b2c2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md"
+              }
             }
           }
         ]
@@ -138,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82f9448d5ccda32",
+  "active": "ee96fa90687b2c2d",
   "lastOpenFiles": [
+    "CMake学习笔记/P08 2.5 CMake作用域.md",
+    "CMake学习笔记/P07 2.4 CMake 语法 函数.md",
+    "CMake学习笔记/P06 2.3 流程控制.md",
+    "CMake学习笔记/P05 2.2 CMake语法set与list.md",
+    "CMake学习笔记/P04 2.1 CMake语法message.md",
+    "CMake学习笔记/P03 1.3 在Linux下使用CMake.md",
+    "CMake学习笔记/P01 - 1.1 CMake 构建项目流程.md",
     "CMake学习笔记/P17 6 条件编译.md",
     "CMake学习笔记/P16 5 CMake与原文件交互.md",
     "CMake学习笔记/P15 4.2 调用静态库和动态库.md",
@@ -148,14 +163,7 @@
     "CMake学习笔记/P12 3.3 CMakeLists 嵌套.md",
     "CMake学习笔记/P11 3.2 调用子目录中的CMake脚本.md",
     "CMake学习笔记/P10 3.1 直接写入源码路径方式构建项目.md",
-    "CMake学习笔记/P9 2.6 CMake语法 宏.md",
-    "CMake学习笔记/P8 2.5 CMake作用域.md",
-    "CMake学习笔记/P7 2.4 CMake 语法 函数.md",
-    "CMake学习笔记/P6 2.3 流程控制.md",
-    "CMake学习笔记/P5 2.2 CMake语法set与list.md",
-    "CMake学习笔记/P4 2.1 CMake语法message.md",
-    "CMake学习笔记/P3 1.3 在Linux下使用CMake.md",
-    "CMake学习笔记/P1 - 1.1 CMake 构建项目流程.md",
+    "CMake学习笔记/P09 2.6 CMake语法 宏.md",
     "CMake学习笔记/ReadMe.md",
     "CMake学习笔记"
   ]
