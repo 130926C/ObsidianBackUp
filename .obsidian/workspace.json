@@ -148,7 +148,9 @@
   },
   "active": "7f2ca67bcd485dab",
   "lastOpenFiles": [
+    "Rust现代实用教程/ReadMe.md",
     "ReadMe.md",
+    "Rust现代实用教程",
     "现代C++教程/P02 C++默认实参.md",
     "现代C++教程/P03 C++成员指针.md",
     "现代C++教程/ReadMe.md",
@@ -177,7 +179,6 @@
     "CMake学习笔记/P14 4.1 CMake 生成动态库、静态库.md",
     "CMake学习笔记/P13 3.4 Object Library.md",
     "CMake学习笔记/P12 3.3 CMakeLists 嵌套.md",
-    "CMake学习笔记/P11 3.2 调用子目录中的CMake脚本.md",
     "CMake学习笔记"
   ]
 }
