@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3046d3a3bf44b0b",
+        "id": "b4cbba6b9ca01e54",
         "type": "tabs",
         "children": [
           {
-            "id": "6c02c2eab0d7694d",
+            "id": "41b21d084c32c6c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c02c2eab0d7694d",
+  "active": "41b21d084c32c6c0",
   "lastOpenFiles": [
+    "Docker学习笔记/ReadMe.md",
+    "Docker学习笔记/Basic 基础操作.md",
+    "Docker学习笔记",
     "Vim学习笔记/ThinkPad .vimrc.md",
     "Vim学习笔记/Aliyun ECS .vimrc.md",
     "Vim学习笔记/MacOS .vimrc.md",
