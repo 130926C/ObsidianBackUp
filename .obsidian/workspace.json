@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc49f859099e5431",
+        "id": "e3046d3a3bf44b0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee96fa90687b2c2d",
+            "id": "6c02c2eab0d7694d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMake学习笔记/P09 2.6 CMake语法 宏.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee96fa90687b2c2d",
+  "active": "6c02c2eab0d7694d",
   "lastOpenFiles": [
+    "Vim学习笔记/ThinkPad .vimrc.md",
+    "Vim学习笔记/Aliyun ECS .vimrc.md",
+    "Vim学习笔记/MacOS .vimrc.md",
+    "Vim学习笔记/Basic 基础操作.md",
+    "Vim学习笔记",
+    "CMake学习笔记/P09 2.6 CMake语法 宏.md",
     "CMake学习笔记/P08 2.5 CMake作用域.md",
     "CMake学习笔记/P07 2.4 CMake 语法 函数.md",
     "CMake学习笔记/P06 2.3 流程控制.md",
@@ -163,7 +161,6 @@
     "CMake学习笔记/P12 3.3 CMakeLists 嵌套.md",
     "CMake学习笔记/P11 3.2 调用子目录中的CMake脚本.md",
     "CMake学习笔记/P10 3.1 直接写入源码路径方式构建项目.md",
-    "CMake学习笔记/P09 2.6 CMake语法 宏.md",
     "CMake学习笔记/ReadMe.md",
     "CMake学习笔记"
   ]
