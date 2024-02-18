@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cbba6b9ca01e54",
+        "id": "7f18afa3e0392563",
         "type": "tabs",
         "children": [
           {
-            "id": "41b21d084c32c6c0",
+            "id": "7f2ca67bcd485dab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ReadMe.md"
+              }
             }
           }
         ]
@@ -138,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41b21d084c32c6c0",
+  "active": "7f2ca67bcd485dab",
   "lastOpenFiles": [
+    "ReadMe.md",
+    "现代C++教程/P02 C++默认实参.md",
+    "现代C++教程/P03 C++成员指针.md",
+    "现代C++教程/ReadMe.md",
+    "C++零碎笔记/ReadMe.md",
+    "C++零碎笔记",
+    "现代C++教程",
     "Docker学习笔记/ReadMe.md",
     "Docker学习笔记/Basic 基础操作.md",
     "Docker学习笔记",
@@ -163,8 +178,6 @@
     "CMake学习笔记/P13 3.4 Object Library.md",
     "CMake学习笔记/P12 3.3 CMakeLists 嵌套.md",
     "CMake学习笔记/P11 3.2 调用子目录中的CMake脚本.md",
-    "CMake学习笔记/P10 3.1 直接写入源码路径方式构建项目.md",
-    "CMake学习笔记/ReadMe.md",
     "CMake学习笔记"
   ]
 }
