@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "GoogleTest/gMock 基本用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "GoogleTest/gMock 基本用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "GoogleTest/gMock 基本用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "GoogleTest/gMock 基本用法.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "e3a757539614fa1b",
   "lastOpenFiles": [
+    "ReadMe.md",
+    "GoogleTest/gMock 基本用法.md",
     "GoogleTest/gTest事件.md",
     "GoogleTest/gTest基本用法.md",
     "Vim学习笔记/Basic 基础操作.md",
-    "ReadMe.md",
     "C++零碎笔记/C++ lambda.md",
     "GoogleTest",
     "C++零碎笔记/ReadMe.md",
@@ -180,7 +181,6 @@
     "现代C++ CMake简明教程/P09 2.6 CMake语法 宏.md",
     "现代C++ CMake简明教程/P08 2.5 CMake作用域.md",
     "现代C++ CMake简明教程/P07 2.4 CMake 语法 函数.md",
-    "现代C++ CMake简明教程/P06 2.3 流程控制.md",
     "现代C++ CMake简明教程"
   ]
 }
