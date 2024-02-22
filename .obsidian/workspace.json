@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf00c89a88a03486",
+        "id": "281d3ffb05243f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "83de5812344b2981",
+            "id": "d144a232900102ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "读书笔记/现代C++教程/ReadMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "读书笔记/现代C++教程/ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "读书笔记/现代C++教程/ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "读书笔记/现代C++教程/ReadMe.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83de5812344b2981",
+  "active": "d144a232900102ff",
   "lastOpenFiles": [
-    "Linux零碎笔记/高内存使用与内存泄漏排查.md",
+    "现代C++教程/P02 C++默认实参.md",
+    "读书笔记/现代C++教程/ReadMe.md",
+    "读书笔记/现代C++教程",
+    "读书笔记",
     "ReadMe.md",
+    "Linux零碎笔记/高内存使用与内存泄漏排查.md",
     "Linux零碎笔记/ReadMe.md",
     "C++零碎笔记/Valgrind 内存泄漏检测工具.md",
     "Linux零碎笔记",
@@ -175,13 +179,10 @@
     "现代C++ CMake简明教程/P01 - 1.1 CMake 构建项目流程.md",
     "Flutter从入门到高阶",
     "Rust现代实用教程",
-    "现代C++教程/P02 C++默认实参.md",
     "C++零碎笔记",
     "现代C++教程",
     "Docker学习笔记/Basic 基础操作.md",
     "Docker学习笔记",
-    "Vim学习笔记/ThinkPad .vimrc.md",
-    "Vim学习笔记",
-    "现代C++ CMake简明教程"
+    "Vim学习笔记"
   ]
 }
