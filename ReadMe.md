@@ -45,7 +45,7 @@ $ update-desktop-database ~/.local/share/applications/
 【注意】上面的操作适用于任何 `AppImage` 形式的软件。
 
 ---
-#### 2024-02-18 Feb 
+#### 2024-02-18 Sun 
 
 * 添加了`现代C++教程`文件夹；
 * 添加了主目录下的 `ReadMe.md` 文件；
@@ -55,10 +55,14 @@ $ update-desktop-database ~/.local/share/applications/
 
 ---
 
-#### 2024-02-21 Feb
+#### 2024-02-21 Wed
 
 * 添加了`GoogleTest`文件夹；
 * 添加了 `Linux零碎笔记` 文件夹；
 
 ---
 
+#### 2024-02-22 Thu
+
+* 添加了 `读书笔记` 文件夹；
+* 添加了 `读书笔记/现代C++教程` 文件夹；

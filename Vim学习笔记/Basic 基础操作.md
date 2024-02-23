@@ -223,3 +223,8 @@ $ touch init.vim
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
+
+如果想要查看vim自带的主题，可以在下面找到：
+```shell
+$ /usr/share/vim/vim90/colors
+```
