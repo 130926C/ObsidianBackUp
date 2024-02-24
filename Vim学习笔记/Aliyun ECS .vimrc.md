@@ -3,6 +3,7 @@
 filetype off
 syntax on
 set rtp+=~/.vim/bundle/Vundle.vim
+set backspace=2
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'https://hub.fastgit.org/mhinz/vim-startify'  "  酷炫的  vim  开始界面

@@ -3,7 +3,7 @@
 set encoding=utf-8
 set fileencodings=utf-8
 set termencoding=utf-8
-
+set backspace=2
 "设定leader键
 let mapleader=','
 

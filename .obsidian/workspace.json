@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d21eca335d88261b",
+        "id": "693f67de3b2c701a",
         "type": "tabs",
         "children": [
           {
-            "id": "e491cb40936dcc59",
+            "id": "ba5878d26538fd21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
+                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
+                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
+                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md"
+                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md"
               }
             }
           }
@@ -146,17 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e491cb40936dcc59",
+  "active": "ba5878d26538fd21",
   "lastOpenFiles": [
-    "读书笔记/现代C++教程/Chapter09/09.03 字面量.md",
+    "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
+    "Linux零碎笔记/高内存使用与内存泄漏排查.md",
+    "Vim学习笔记/ThinkPad .vimrc.md",
+    "Vim学习笔记/MacOS .vimrc.md",
+    "Vim学习笔记/Aliyun ECS .vimrc.md",
+    "Vim学习笔记/Basic 基础操作.md",
+    "Linux零碎笔记/ReadMe.md",
     "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
+    "读书笔记/现代C++教程/Chapter09/09.03 字面量.md",
     "读书笔记/现代C++教程/Chapter09/09.02 noexcept 修饰和操作.md",
     "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md",
     "读书笔记/现代C++教程/Chapter09",
     "读书笔记/现代C++教程/Chapter08",
-    "Vim学习笔记/Aliyun ECS .vimrc.md",
-    "Vim学习笔记/MacOS .vimrc.md",
-    "Vim学习笔记/Basic 基础操作.md",
     "读书笔记/现代C++教程/Chapter07/07.04 条件变量.md",
     "读书笔记/现代C++教程/Chapter07/07.03 期物 Future.md",
     "读书笔记/现代C++教程/Chapter07/07.02 互斥量与临界区.md",
@@ -176,10 +180,6 @@
     "读书笔记/现代C++教程/ReadMe.md",
     "读书笔记/现代C++教程/Chapter03/03.03 右值引用.md",
     "读书笔记/现代C++教程/Chapter04",
-    "读书笔记/现代C++教程/Chapter03/03.02 函数对象包装器.md",
-    "读书笔记/现代C++教程/Chapter03/03.01 Lambda表达式.md",
-    "ReadMe.md",
-    "读书笔记/现代C++教程/Chapter02/02.06 面向对象.md",
     "读书笔记/现代C++教程/Chapter03",
     "读书笔记/现代C++教程/Chapter02",
     "读书笔记/现代C++教程/Chapter01",
