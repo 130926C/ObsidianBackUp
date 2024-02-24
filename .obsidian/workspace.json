@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md",
+                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md",
+                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md",
+                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md"
+                "file": "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "e491cb40936dcc59",
   "lastOpenFiles": [
+    "读书笔记/现代C++教程/Chapter09/09.03 字面量.md",
+    "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
+    "读书笔记/现代C++教程/Chapter09/09.02 noexcept 修饰和操作.md",
+    "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md",
+    "读书笔记/现代C++教程/Chapter09",
+    "读书笔记/现代C++教程/Chapter08",
     "Vim学习笔记/Aliyun ECS .vimrc.md",
     "Vim学习笔记/MacOS .vimrc.md",
     "Vim学习笔记/Basic 基础操作.md",
-    "读书笔记/现代C++教程/Chapter07/07.05 原子操作与内存模型.md",
     "读书笔记/现代C++教程/Chapter07/07.04 条件变量.md",
     "读书笔记/现代C++教程/Chapter07/07.03 期物 Future.md",
     "读书笔记/现代C++教程/Chapter07/07.02 互斥量与临界区.md",
@@ -176,13 +181,8 @@
     "ReadMe.md",
     "读书笔记/现代C++教程/Chapter02/02.06 面向对象.md",
     "读书笔记/现代C++教程/Chapter03",
-    "读书笔记/现代C++教程/Chapter02/02.05 模版.md",
-    "读书笔记/现代C++教程/Chapter02/02.04 控制流.md",
-    "读书笔记/现代C++教程/Chapter02/02.03 类型推导.md",
     "读书笔记/现代C++教程/Chapter02",
     "读书笔记/现代C++教程/Chapter01",
-    "sources/eBooks/现代C++教程-中文.pdf",
-    "sources/eBooks/modern-cpp-tutorial-en-us.pdf",
-    "sources/eBooks"
+    "sources/eBooks/现代C++教程-中文.pdf"
   ]
 }
