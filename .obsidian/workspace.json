@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
+                "file": "Vim学习笔记/Basic 基础操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
+                "file": "Vim学习笔记/Basic 基础操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
+                "file": "Vim学习笔记/Basic 基础操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md"
+                "file": "Vim学习笔记/Basic 基础操作.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ba5878d26538fd21",
   "lastOpenFiles": [
+    "C++零碎笔记/C++11多线程.md",
     "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
     "Linux零碎笔记/高内存使用与内存泄漏排查.md",
     "Vim学习笔记/ThinkPad .vimrc.md",
@@ -178,7 +179,6 @@
     "读书笔记/现代C++教程/Chapter04/04.02 无序容器.md",
     "读书笔记/现代C++教程/Chapter04/04.01 线性容器.md",
     "读书笔记/现代C++教程/ReadMe.md",
-    "读书笔记/现代C++教程/Chapter03/03.03 右值引用.md",
     "读书笔记/现代C++教程/Chapter04",
     "读书笔记/现代C++教程/Chapter03",
     "读书笔记/现代C++教程/Chapter02",

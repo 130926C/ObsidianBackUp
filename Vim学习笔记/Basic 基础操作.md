@@ -228,3 +228,45 @@ $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```shell
 $ /usr/share/vim/vim90/colors
 ```
+
+下面这个人的vim配置链接可以参考下：
+
+https://www.zhihu.com/question/383348951/answer/3308689919?utm_id=0
+
+----
+
+#### 升级vim版本【Ubuntu】
+
+参考链接：https://blog.csdn.net/wxd1233/article/details/127823472
+
+Step1. 从github仓库拉取release版本
+```shell
+$  wget https://github.com/vim/vim/archive/refs/tags/v9.0.0861.tar.gz
+```
+
+Step2. 解压
+```shell
+$  tar -xzvf v9.0.0861.tar.gz
+```
+
+Step3. 安装潜在的依赖库
+```shell
+$  sudo apt install libncurses5-dev
+```
+
+Step4. 编译并安装
+```shell
+$ cd vim-9.0.0861/
+$ ./configure --prefix=$HOME/.local --enable-python3interp=yes && make && make install
+```
+
+Step5. 链接
+```shell
+$  alias vim='~/.local/bin/vim'
+$  echo "alias vim='~/.local/bin/vim'" >> ~/.bashrc
+```
+
+查看版本：
+```shell
+$  vim --version
+```
