@@ -388,3 +388,91 @@ EOF
 ```
 
 ----
+
+#### 根据脚本顺序逐个执行脚本
+
+这段代码要求文件结构如下（结构不可变，顺序文件必须和脚本在同级目录下）：
+```shell
+.
+├── compile_order.txt    # 脚本执行顺序文件
+├── eigen_compile.sh     # 需要执行的脚本
+├── moveit_compile.sh
+├── open3d_compile.sh
+└── opencl_compile.sh
+```
+
+其中执行顺序文件内容如下：
+```txt
+eigen_compile.sh
+moveit_compile.sh
+open3d_compile.sh
+opencl_compile.sh
+```
+
+功能函数如下：
+```shell
+execute_scripts_by_order(){
+    local execute_order_file=$1
+    echo "scripts folder is $execute_order_file"
+    # 检查传入的文件是否存在
+    if [ ! -f "$execute_order_file" ]; then
+        echo "[Error]: Script file not found: $execute_order_file"
+        return 1
+    fi
+    # 从传入的路径中将所在目录分离
+    local directory_path=$(dirname "$execute_order_file")
+    echo "directory path is $directory_path"
+    # 执行同级目录脚本
+
+    while IFS= read -r script; do
+        script_path="$directory_path/$script"  # 拼接脚本的完整路径
+        echo "[Warning]: Executing script: $script_path"
+        if bash "$script_path"; then
+            echo "[Success]: Script $script_path executed successfully."
+        else
+            echo "[Error]: Script $script_path failed. Exiting."
+            return 1
+        fi
+    done < "$execute_order_file"
+
+    echo "All scripts executed successfully."
+    return 0
+}
+```
+
+调用：
+```shell
+$ execute_scripts_by_order "./sources/compile_order.txt"
+```
+
+---
+
+#### 根据时间戳生成日志文件
+
+```shell
+generate_file_with_timestamp() {
+    local target_directory="$1"
+
+    if [ -z "$target_directory" ]; then
+        echo " Error: Target directory not specified. "
+        return 1
+    fi
+
+    # 生成当前时间戳
+    local timestamp=$(date +"%Y%m%d%H%M%S")
+    # 构建文件名
+    local file_path="${target_directory}/${timestamp}.txt"
+    # 创建文件
+    touch "$file_path"
+    echo "${file_path}"
+    return 0
+}
+```
+
+使用：
+```shell
+LOG_FILE=$(generate_file_with_timestamp "./logs")
+```
+
+---
+
