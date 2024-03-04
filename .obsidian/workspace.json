@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "908bd7efd18d76ba",
+        "id": "48a4f91a31c211e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c6fa86d194ef6f1a",
+            "id": "dcc4b3aadc3500c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux零碎笔记/常用shell命令与函数.md",
+                "file": "Linux零碎笔记/Shell中的坑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux零碎笔记/常用shell命令与函数.md",
+                "file": "Linux零碎笔记/Shell中的坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux零碎笔记/常用shell命令与函数.md",
+                "file": "Linux零碎笔记/Shell中的坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux零碎笔记/常用shell命令与函数.md"
+                "file": "Linux零碎笔记/Shell中的坑.md"
               }
             }
           }
@@ -146,24 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6fa86d194ef6f1a",
+  "active": "dcc4b3aadc3500c1",
   "lastOpenFiles": [
-    "Linux零碎笔记/高内存使用与内存泄漏排查.md",
     "Linux零碎笔记/常用shell命令与函数.md",
+    "Linux零碎笔记/Shell中的坑.md",
+    "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
+    "Linux零碎笔记/Git 使用.md",
+    "Vim学习笔记/MacOS .vimrc.md",
+    "Vim学习笔记/ThinkPad .vimrc.md",
+    "Vim学习笔记/Basic 基础操作.md",
+    "Vim学习笔记/Aliyun ECS .vimrc.md",
+    "Linux零碎笔记/高内存使用与内存泄漏排查.md",
     "2024-02-27.md",
     "Untitled.canvas",
     "C++零碎笔记/Valgrind 内存泄漏检测工具.md",
     "Rust现代实用教程/P01 1.1 Rust 简介与安装更新.md",
     "GoogleTest/gTest基本用法.md",
-    "Linux零碎笔记/Shell 脚本基础学习【三万字硬货】.md",
     "Linux零碎笔记/ReadMe.md",
     "C++零碎笔记/C++11多线程.md",
     "Deepglint/机器人部署",
-    "Vim学习笔记/Aliyun ECS .vimrc.md",
-    "Vim学习笔记/MacOS .vimrc.md",
-    "Vim学习笔记/Basic 基础操作.md",
     "Deepglint",
-    "Vim学习笔记/ThinkPad .vimrc.md",
     "读书笔记/现代C++教程/Chapter09/09.04 内存对齐.md",
     "读书笔记/现代C++教程/Chapter09/09.03 字面量.md",
     "读书笔记/现代C++教程/Chapter09/09.02 noexcept 修饰和操作.md",
@@ -179,7 +181,6 @@
     "读书笔记/现代C++教程/Chapter06/06.01 正则表达式.md",
     "读书笔记/现代C++教程/Chapter05/05.04 weak_ptr.md",
     "读书笔记/现代C++教程/Chapter06",
-    "读书笔记/现代C++教程/Chapter05/05.03 unique_ptr.md",
     "读书笔记/现代C++教程/Chapter05",
     "读书笔记/现代C++教程/Chapter04",
     "读书笔记/现代C++教程/Chapter03",

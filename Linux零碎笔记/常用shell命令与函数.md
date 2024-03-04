@@ -476,3 +476,20 @@ LOG_FILE=$(generate_file_with_timestamp "./logs")
 
 ---
 
+#### 检查某个进程是否正在运行
+
+```shell
+check_process_working(){
+	local SERVICE=$1
+	if ps ax | grep -v grep | grep $SERVICE > /dev/null
+	then
+	    echo "$SERVICE service running, everything is fine"
+	else
+	    echo "$SERVICE is not running"
+	    echo "$SERVICE is not running!" | mail -s "$SERVICE down" root
+	fi
+}
+```
+
+---
+
