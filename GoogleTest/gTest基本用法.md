@@ -77,7 +77,7 @@ EXPECT_GT(_val2_, _val2_);
 ```cpp
 // [euqal] 两个 C 字符串有相同的内容 
 ASSERT_STREQ(_expected_str_,_actual_str_);  
-EXPECT_STREQ(_expected_str_,_actual_str_);  
+EXPECT_STREQ(_expected_str_,_actual_str_);  // 期待字符串相等，不想等则失败
 
 // [not equal ]两个 C 字符串有不同的内容
 ASSERT_STRNE(_str1_,_str2_);  
@@ -102,8 +102,8 @@ TEST(TestSuiteName, TestName) {
   ... test body ...
 }
 ```
-* TestSuiteName：测试组名，最终报告是以测试组是否全部通过为准；
-* TestName：当前测试用例名，报告会指出测试组名下当前测试哪个没通过；
+* `TestSuiteName`：测试组名，最终报告是以测试组是否全部通过为准；
+* `TestName`：当前测试用例名，报告会指出测试组名下当前测试哪个没通过（**必须唯一**）；
 * 最终测试结果为 `TestSuiteName.TestName` 方式在 `RUN` 中输出；
 
 【注意事项】：
@@ -294,7 +294,7 @@ TEST_F(TestFixtureName, TestName) {
 }
 ```
 
-* `TestFixtureName`: 测试组名
+* `TestFixtureName`: 测试夹具
 * `TestName`: 当前测试用例名
 
 TestFixtureName 对应一个 test fixture 类的名称。因此我们需要自己去定义一个这样的类，并让它继承`testing::Test`类，然后根据我们的需要实现下面这两个虚函数：
