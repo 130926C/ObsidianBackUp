@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git学习笔记/03 分支管理.md",
+                "file": "Git学习笔记/99 各种异常处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git学习笔记/03 分支管理.md",
+                "file": "Git学习笔记/99 各种异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git学习笔记/03 分支管理.md",
+                "file": "Git学习笔记/99 各种异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git学习笔记/03 分支管理.md"
+                "file": "Git学习笔记/99 各种异常处理.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "988babcae3ccf86a",
   "lastOpenFiles": [
+    "Git学习笔记/03 分支管理.md",
     "Git学习笔记/04 远程仓库操作.md",
     "Git学习笔记/99 各种异常处理.md",
     "Git学习笔记/01 初始化仓库 & 添加远程仓库.md",
-    "Git学习笔记/03 分支管理.md",
     "Git学习笔记/02 文件操作.md",
     "ReadMe.md",
     "Untitled.md",
