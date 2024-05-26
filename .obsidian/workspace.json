@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "73951f08a345dc3d",
         "type": "tabs",
         "children": [
@@ -17,6 +18,17 @@
                 "mode": "source",
                 "source": false
               }
+=======
+        "id": "e696a827868d9299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8066a7add02e9a64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
             }
           }
         ]
@@ -85,7 +97,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
+=======
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
+=======
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +142,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md"
               }
+=======
+              "state": {}
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
             }
           }
         ]
@@ -146,6 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "72e2127d19fb23d2",
   "lastOpenFiles": [
     "Open3D学习笔记/编译与配置/Windows10 平台下的编译.md",
@@ -159,11 +182,20 @@
     "Window10零碎笔记/images/ICMP设置.PNG",
     "Window10零碎笔记/images/防火墙高级设置.PNG",
     "images.md",
-    "Window10零碎笔记/images",
+=======
+  "active": "8066a7add02e9a64",
+  "lastOpenFiles": [
+    "Window10零碎笔记/通同一个局域网内无法ping通.md",
     "Git学习笔记/05 变基.md",
-    "Window10零碎笔记",
-    "Git学习笔记/04 远程仓库操作.md",
     "ROS/西安代码更新.md",
+    "Git学习笔记/04 远程仓库操作.md",
+    "Window10零碎笔记/images/防火墙高级设置.PNG",
+    "Window10零碎笔记/images/文件与打印共享设置.PNG",
+    "Window10零碎笔记/images/ICMP设置.PNG",
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
+    "Window10零碎笔记/images",
+    "Window10零碎笔记",
+    "05 变基.md",
     "ROS/Install.md",
     "Linux零碎笔记/Clash 使用教程.md",
     "Git学习笔记/02 文件操作.md",
@@ -177,8 +209,10 @@
     "Git学习笔记/images/Screenshot 2024-05-09 at 12.50.58.png",
     "Git学习笔记/images/02文件管理02.png",
     "ReadMe.md",
+    "images.md",
     "03 分支操作.md",
     "Git学习笔记/images",
+    "Untitled",
     "GoogleTest/编译与构建.md",
     "GoogleTest/gTest死亡测试.md",
     "GoogleTest/gTest基本用法.md",
@@ -189,11 +223,19 @@
     "现代C++ CMake简明教程/P10 3.1 直接写入源码路径方式构建项目.md",
     "现代C++ CMake简明教程/P09 2.6 CMake语法 宏.md",
     "现代C++ CMake简明教程/P08 2.5 CMake作用域.md",
+<<<<<<< HEAD
+=======
+    "现代C++ CMake简明教程/P07 2.4 CMake 语法 函数.md",
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
     "Git学习笔记",
     "ROS",
     "常用的函数与算法",
     "Append Files/Country.mmdb",
     "Append Files/Clash for Windows.app/Contents/PkgInfo",
+<<<<<<< HEAD
+=======
+    "Append Files/Clash for Windows.app/Contents/Info.plist",
+>>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
