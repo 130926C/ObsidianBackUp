@@ -53,16 +53,9 @@ cmake_minimum_required(VERSION 3.19.2)
 project(demo)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")
-set(CMAKE_BUILD_TYPE "Release")
-
-set(Open3D_DIR "C:/Users/Lucks/Downloads/Open3D/install/open3d141/CMake")
-
-option(STATIC_WINDOWS_RUNTIME "Use static (MT/MTd) Windows runtime" ON)
-if(STATIC_WINDOWS_RUNTIME)
-    set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
-else()
-    set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>DLL")
-endif()
+set(CMAKE_BUILD_TYPE "Release")                                             # 设置编译模式为Release
+set(Open3D_DIR "C:/Users/Lucks/Downloads/Open3D/install/open3d141/CMake")   # 设置Open3D文件路径
+set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")     # 根据输入设置为Release模式
 
 find_package(Open3D REQUIRED)
 
@@ -70,13 +63,10 @@ message(${Open3D_INCLUDE_DIRS})
 include_directories(
   ${Open3D_INCLUDE_DIRS}
   ${PROJECT_SOURCE_DIR}
-  "C:/Users/Lucks/Downloads/Open3D/install/open3d141/include"
-  )
+)
 
-add_executable(demo)
-
-target_sources(demo PRIVATE
-    src/main.cpp
+add_executable(demo
+  src/main.cpp
 )
 target_link_libraries(demo PRIVATE
     Open3D::Open3D
@@ -86,6 +76,9 @@ target_link_libraries(demo PRIVATE
 * `set(CMAKE_BUILD_TYPE "Release")`：设置编译模式为 Release 版，如果希望使用debug版也可以；
 * `set(Open3D_DIR ...)` ：设置Open3D文件路径，这个路径下必须包含 `Open3DConfig.cmake` 等文件；
 * `option(STATIC_WINDOWS_RUNTIME)` ：设置静态库；
+	* `MultiThreaded$<$<CONFIG:Debug>:Debug>`  如果当前是Debug模式编译的则返回Debug，否则返回空，
+	* 参考链接：[CMake设置MSVC运行库_cmake 中 msvc-CSDN博客](https://blog.csdn.net/b1049112625/article/details/136566721)；
+	* 参考链接：[2019-10-24-cmake命令行_cmake --target all-CSDN博客](https://blog.csdn.net/knowledgebao/article/details/113339079)；
 
 5. 执行编译操作：
 ```shell
@@ -106,4 +99,12 @@ ers\Lucks\Desktop\open3dDemo\build\demo.vcxproj]
 ```shell
 $ ./build/Release/demo.exe
 ```
+
+---
+
+## 数据集
+
+下面的链接提供了 Open3D 的官方数据集，主要在 **Open3D Data** 的部分中查找。
+ 
+[Releases · isl-org/open3d_downloads (github.com)](https://github.com/isl-org/open3d_downloads/releases?page=2)
 

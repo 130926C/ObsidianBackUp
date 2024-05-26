@@ -1,34 +1,22 @@
 {
   "main": {
-    "id": "5b25dd3aa2b3b735",
+    "id": "4b2e05a62644c60d",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "73951f08a345dc3d",
+        "id": "33e4ca3eaf53fdba",
         "type": "tabs",
         "children": [
           {
-            "id": "72e2127d19fb23d2",
+            "id": "9cdb6a61e8c294aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
+                "file": "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
                 "mode": "source",
                 "source": false
               }
-=======
-        "id": "e696a827868d9299",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8066a7add02e9a64",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
             }
           }
         ]
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9e0473f6dc85e1e",
+    "id": "9322c23d1d5b7b18",
     "type": "split",
     "children": [
       {
-        "id": "fdc04b4d98178cad",
+        "id": "beb704f5f6e8a548",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee6bb562213baaf",
+            "id": "0b432c1502ec742f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "f60877fe24969bff",
+            "id": "1799ee18cb13c164",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "8a7995eea22beb59",
+            "id": "8a1eccb7e202400b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,23 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "dc02c989e5069dd7",
+    "id": "1e7616dc4ce14716",
     "type": "split",
     "children": [
       {
-        "id": "47c3d403bc17b304",
+        "id": "c6cb791d9101919e",
         "type": "tabs",
         "children": [
           {
-            "id": "94e990bd0d375671",
+            "id": "9172e51001f98e99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
-=======
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
+                "file": "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,22 +97,19 @@
             }
           },
           {
-            "id": "e68aac19f0218e31",
+            "id": "e67340d1c707a1f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
-=======
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
+                "file": "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "50881d336a550cd8",
+            "id": "940927b51365a131",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,17 +120,13 @@
             }
           },
           {
-            "id": "02c2b9cb2c8651e6",
+            "id": "036a289464966712",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {
-                "file": "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md"
+                "file": "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md"
               }
-=======
-              "state": {}
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
             }
           }
         ]
@@ -168,75 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "72e2127d19fb23d2",
+  "active": "9cdb6a61e8c294aa",
   "lastOpenFiles": [
-    "Open3D学习笔记/编译与配置/Windows10 平台下的编译.md",
     "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
-    "Open3D学习笔记/编译与配置",
-    "现代C++ CMake简明教程/P01 - 1.1 CMake 构建项目流程.md",
-    "Open3D学习笔记",
-    "Git学习笔记/03 分支管理.md",
-    "Window10零碎笔记/通同一个局域网内无法ping通.md",
-    "Window10零碎笔记/images/文件与打印共享设置.PNG",
-    "Window10零碎笔记/images/ICMP设置.PNG",
-    "Window10零碎笔记/images/防火墙高级设置.PNG",
-    "images.md",
-=======
-  "active": "8066a7add02e9a64",
-  "lastOpenFiles": [
-    "Window10零碎笔记/通同一个局域网内无法ping通.md",
-    "Git学习笔记/05 变基.md",
-    "ROS/西安代码更新.md",
-    "Git学习笔记/04 远程仓库操作.md",
-    "Window10零碎笔记/images/防火墙高级设置.PNG",
-    "Window10零碎笔记/images/文件与打印共享设置.PNG",
-    "Window10零碎笔记/images/ICMP设置.PNG",
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
-    "Window10零碎笔记/images",
-    "Window10零碎笔记",
-    "05 变基.md",
-    "ROS/Install.md",
-    "Linux零碎笔记/Clash 使用教程.md",
-    "Git学习笔记/02 文件操作.md",
-    "Git学习笔记/01 初始化仓库 & 添加远程仓库.md",
-    "Git学习笔记/99 各种异常处理.md",
-    "Git学习笔记/images/05变基02.png",
-    "Git学习笔记/images/Screenshot 2024-05-10 at 01.11.12.png",
-    "Git学习笔记/images/05变基01.png",
-    "Git学习笔记/images/Screenshot 2024-05-10 at 01.05.55.png",
-    "Git学习笔记/images/02文件管理03.png",
-    "Git学习笔记/images/Screenshot 2024-05-09 at 12.50.58.png",
-    "Git学习笔记/images/02文件管理02.png",
-    "ReadMe.md",
-    "images.md",
-    "03 分支操作.md",
-    "Git学习笔记/images",
-    "Untitled",
-    "GoogleTest/编译与构建.md",
-    "GoogleTest/gTest死亡测试.md",
-    "GoogleTest/gTest基本用法.md",
-    "GoogleTest/gMock基本用法.md",
-    "GoogleTest/gTest事件.md",
-    "现代C++ CMake简明教程/P12 3.3 CMakeLists 嵌套.md",
-    "现代C++ CMake简明教程/P11 3.2 调用子目录中的CMake脚本.md",
-    "现代C++ CMake简明教程/P10 3.1 直接写入源码路径方式构建项目.md",
-    "现代C++ CMake简明教程/P09 2.6 CMake语法 宏.md",
-    "现代C++ CMake简明教程/P08 2.5 CMake作用域.md",
-<<<<<<< HEAD
-=======
-    "现代C++ CMake简明教程/P07 2.4 CMake 语法 函数.md",
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
-    "Git学习笔记",
-    "ROS",
-    "常用的函数与算法",
-    "Append Files/Country.mmdb",
-    "Append Files/Clash for Windows.app/Contents/PkgInfo",
-<<<<<<< HEAD
-=======
-    "Append Files/Clash for Windows.app/Contents/Info.plist",
->>>>>>> 2ffcdd49c49957048c3ff7740fed8ce655e11766
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
+    "Open3D学习笔记/点云侠"
   ]
 }
