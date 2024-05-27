@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e696a827868d9299",
+        "id": "8db0c4219e63bb5e",
         "type": "tabs",
         "children": [
           {
-            "id": "8066a7add02e9a64",
+            "id": "52334dbb17b072e9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8066a7add02e9a64",
+  "active": "52334dbb17b072e9",
   "lastOpenFiles": [
     "Window10零碎笔记/通同一个局域网内无法ping通.md",
     "Git学习笔记/05 变基.md",
