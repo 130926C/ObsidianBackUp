@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md",
+                "file": "Open3D学习笔记/点云侠/09. FPS最远点下采样.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md",
+                "file": "Open3D学习笔记/点云侠/09. FPS最远点下采样.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md",
+                "file": "Open3D学习笔记/点云侠/09. FPS最远点下采样.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md"
+                "file": "Open3D学习笔记/点云侠/09. FPS最远点下采样.md"
               }
             }
           }
@@ -148,10 +148,23 @@
   },
   "active": "9cdb6a61e8c294aa",
   "lastOpenFiles": [
+    "Open3D学习笔记/点云侠/08. 删除点云中重叠的点.md",
+    "Open3D学习笔记/点云侠/09. FPS最远点下采样.md",
+    "Open3D学习笔记/点云侠/07. 读取、可视化、保存mesh.md",
+    "Open3D学习笔记/点云侠/06. KD-Tree.md",
+    "Open3D学习笔记/点云侠/05. 计算点云包围盒.md",
+    "Open3D学习笔记/编译与配置/Windows10 平台下编译并引用Eigen3.md",
+    "Open3D学习笔记/编译与配置/images/Eigen3官网.PNG",
+    "Open3D学习笔记/编译与配置/Windows10 平台下的编译.md",
+    "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
+    "Open3D学习笔记/编译与配置/images/make安装.PNG",
+    "Open3D学习笔记/编译与配置/images/CMake安装.PNG",
+    "Open3D学习笔记/编译与配置/images",
+    "Open3D学习笔记/编译与配置/常见错误与解决方案.md",
     "Open3D学习笔记/点云侠/02. Ransac拟合平面分割点云.md",
+    "Open3D学习笔记/点云侠/04. 获取点云坐标的最值.md",
     "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md",
     "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
-    "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
     "Open3D学习笔记/点云侠"
   ]
 }
