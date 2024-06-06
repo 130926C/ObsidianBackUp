@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open3D学习笔记/点云侠/16. 半径滤波.md",
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open3D学习笔记/点云侠/16. 半径滤波.md",
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open3D学习笔记/点云侠/16. 半径滤波.md",
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open3D学习笔记/点云侠/16. 半径滤波.md"
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "bcdbc37e35bd8bbd",
   "lastOpenFiles": [
-    "Open3D学习笔记/点云侠/15. 随机下采样.md",
+    "Open3D学习笔记/点云侠/17. 统计滤波.md",
+    "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
     "Open3D学习笔记/点云侠/16. 半径滤波.md",
+    "Open3D学习笔记/点云侠/15. 随机下采样.md",
     "Open3D学习笔记/点云侠/14. 体素下采样.md",
     "Open3D学习笔记/点云侠/13. 均匀下采样.md",
     "Open3D学习笔记/点云侠/12. 点云镜像变化.md",
