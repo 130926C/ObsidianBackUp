@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ea7f9e004b8ffead",
         "type": "tabs",
         "children": [
           {
             "id": "ccf2b97da9bd0b86",
+=======
+        "id": "a56083cda7ab8f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdbc37e35bd8bbd",
+>>>>>>> c409a2e3c63037d21e20bb2a43db68318fb22fbe
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "ROS/Install.md",
+=======
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
+>>>>>>> c409a2e3c63037d21e20bb2a43db68318fb22fbe
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ROS/Install.md",
+=======
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
+>>>>>>> c409a2e3c63037d21e20bb2a43db68318fb22fbe
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "ROS/Install.md",
+=======
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
+>>>>>>> c409a2e3c63037d21e20bb2a43db68318fb22fbe
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ROS/Install.md"
+=======
+                "file": "Open3D学习笔记/点云侠/18. 计算点云凸包.md"
+>>>>>>> c409a2e3c63037d21e20bb2a43db68318fb22fbe
               }
             }
           }
@@ -146,9 +170,39 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "ccf2b97da9bd0b86",
   "lastOpenFiles": [
     "ROS/西安代码更新.md",
+=======
+  "active": "bcdbc37e35bd8bbd",
+  "lastOpenFiles": [
+    "Open3D学习笔记/点云侠/17. 统计滤波.md",
+    "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
+    "Open3D学习笔记/点云侠/16. 半径滤波.md",
+    "Open3D学习笔记/点云侠/15. 随机下采样.md",
+    "Open3D学习笔记/点云侠/14. 体素下采样.md",
+    "Open3D学习笔记/点云侠/13. 均匀下采样.md",
+    "Open3D学习笔记/点云侠/12. 点云镜像变化.md",
+    "Open3D学习笔记/点云侠/11. 点云投影到平面.md",
+    "Open3D学习笔记/点云侠/10. 点云投影到球面.md",
+    "Open3D学习笔记/点云侠/09. FPS最远点下采样.md",
+    "Open3D学习笔记/点云侠/08. 删除点云中重叠的点.md",
+    "Open3D学习笔记/点云侠/07. 读取、可视化、保存mesh.md",
+    "Open3D学习笔记/点云侠/06. KD-Tree.md",
+    "Open3D学习笔记/点云侠/05. 计算点云包围盒.md",
+    "Open3D学习笔记/编译与配置/Windows10 平台下编译并引用Eigen3.md",
+    "Open3D学习笔记/编译与配置/images/Eigen3官网.PNG",
+    "Open3D学习笔记/编译与配置/Windows10 平台下的编译.md",
+    "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
+    "Open3D学习笔记/编译与配置/images/make安装.PNG",
+    "Open3D学习笔记/编译与配置/images/CMake安装.PNG",
+    "Open3D学习笔记/编译与配置/images",
+    "Open3D学习笔记/编译与配置/常见错误与解决方案.md",
+    "Open3D学习笔记/点云侠/02. Ransac拟合平面分割点云.md",
+    "Open3D学习笔记/点云侠/04. 获取点云坐标的最值.md",
+    "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md",
+>>>>>>> c409a2e3c63037d21e20bb2a43db68318fb22fbe
     "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
     "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md"
   ]
