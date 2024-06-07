@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "5b25dd3aa2b3b735",
+    "id": "aa3a0c44e9a15bf1",
     "type": "split",
     "children": [
       {
-        "id": "8db0c4219e63bb5e",
+        "id": "ea7f9e004b8ffead",
         "type": "tabs",
         "children": [
           {
-            "id": "52334dbb17b072e9",
+            "id": "ccf2b97da9bd0b86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ROS/Install.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9e0473f6dc85e1e",
+    "id": "93385dd9a890677b",
     "type": "split",
     "children": [
       {
-        "id": "fdc04b4d98178cad",
+        "id": "9b70ff3fe347f259",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee6bb562213baaf",
+            "id": "f9f6ee755c95e299",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "f60877fe24969bff",
+            "id": "b001e914d8e3d83a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "8a7995eea22beb59",
+            "id": "86b91d845578345d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "dc02c989e5069dd7",
+    "id": "f6cace8b567571ba",
     "type": "split",
     "children": [
       {
-        "id": "47c3d403bc17b304",
+        "id": "4b4951a681c482a7",
         "type": "tabs",
         "children": [
           {
-            "id": "94e990bd0d375671",
+            "id": "251520db02e4268f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ROS/Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "e68aac19f0218e31",
+            "id": "c41689d4d7105bd8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ROS/Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "50881d336a550cd8",
+            "id": "de60ff3f7ae37cde",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "02c2b9cb2c8651e6",
+            "id": "7766bfd3e51756d2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ROS/Install.md"
+              }
             }
           }
         ]
@@ -138,54 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52334dbb17b072e9",
+  "active": "ccf2b97da9bd0b86",
   "lastOpenFiles": [
-    "Window10零碎笔记/通同一个局域网内无法ping通.md",
-    "Git学习笔记/05 变基.md",
     "ROS/西安代码更新.md",
-    "Git学习笔记/04 远程仓库操作.md",
-    "Window10零碎笔记/images/防火墙高级设置.PNG",
-    "Window10零碎笔记/images/文件与打印共享设置.PNG",
-    "Window10零碎笔记/images/ICMP设置.PNG",
-    "Window10零碎笔记/images",
-    "Window10零碎笔记",
-    "05 变基.md",
-    "ROS/Install.md",
-    "Linux零碎笔记/Clash 使用教程.md",
-    "Git学习笔记/03 分支管理.md",
-    "Git学习笔记/02 文件操作.md",
-    "Git学习笔记/01 初始化仓库 & 添加远程仓库.md",
-    "Git学习笔记/99 各种异常处理.md",
-    "Git学习笔记/images/05变基02.png",
-    "Git学习笔记/images/Screenshot 2024-05-10 at 01.11.12.png",
-    "Git学习笔记/images/05变基01.png",
-    "Git学习笔记/images/Screenshot 2024-05-10 at 01.05.55.png",
-    "Git学习笔记/images/02文件管理03.png",
-    "Git学习笔记/images/Screenshot 2024-05-09 at 12.50.58.png",
-    "Git学习笔记/images/02文件管理02.png",
-    "ReadMe.md",
-    "images.md",
-    "03 分支操作.md",
-    "Git学习笔记/images",
-    "Untitled",
-    "GoogleTest/编译与构建.md",
-    "GoogleTest/gTest死亡测试.md",
-    "GoogleTest/gTest基本用法.md",
-    "GoogleTest/gMock基本用法.md",
-    "GoogleTest/gTest事件.md",
-    "现代C++ CMake简明教程/P12 3.3 CMakeLists 嵌套.md",
-    "现代C++ CMake简明教程/P11 3.2 调用子目录中的CMake脚本.md",
-    "现代C++ CMake简明教程/P10 3.1 直接写入源码路径方式构建项目.md",
-    "现代C++ CMake简明教程/P09 2.6 CMake语法 宏.md",
-    "现代C++ CMake简明教程/P08 2.5 CMake作用域.md",
-    "现代C++ CMake简明教程/P07 2.4 CMake 语法 函数.md",
-    "Git学习笔记",
-    "ROS",
-    "常用的函数与算法",
-    "Append Files/Country.mmdb",
-    "Append Files/Clash for Windows.app/Contents/PkgInfo",
-    "Append Files/Clash for Windows.app/Contents/Info.plist",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
+    "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md"
   ]
 }
