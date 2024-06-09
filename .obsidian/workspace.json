@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6cdf8b04b1204b3",
+        "id": "8b5786bf5b1a1b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d3265a6e3b0f53",
+            "id": "52a6d28418f8a2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open3D学习笔记/点云侠/25. 泊松盘采样.md",
+                "file": "Qt学习笔记/使用VS Code写C++ Qt代码.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open3D学习笔记/点云侠/25. 泊松盘采样.md",
+                "file": "Qt学习笔记/使用VS Code写C++ Qt代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open3D学习笔记/点云侠/25. 泊松盘采样.md",
+                "file": "Qt学习笔记/使用VS Code写C++ Qt代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open3D学习笔记/点云侠/25. 泊松盘采样.md"
+                "file": "Qt学习笔记/使用VS Code写C++ Qt代码.md"
               }
             }
           }
@@ -146,8 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0d3265a6e3b0f53",
+  "active": "52a6d28418f8a2b0",
   "lastOpenFiles": [
+    "Qt学习笔记/images/Qt配置vscode编译器路径.PNG",
+    "Qt学习笔记/在Windows平台安装Qt 5.15.2.md",
+    "Qt学习笔记/使用VS Code写C++ Qt代码.md",
+    "Qt学习笔记/images/Qt配置环境变量.PNG",
+    "Qt学习笔记/images/Qt安装指定版本.PNG",
+    "Qt学习笔记/images/Qt安装选择界面.PNG",
+    "Qt学习笔记/images/Qt安装默认界面.PNG",
+    "Qt学习笔记/images/Qt安装发送界面.PNG",
+    "Qt学习笔记/images/Qt安装许可界面.PNG",
+    "Qt学习笔记/images/Qt安装登录界面.PNG",
+    "Qt学习笔记/images/清华镜像.PNG",
+    "Qt学习笔记/images",
+    "Qt学习笔记/New folder",
+    "Qt学习笔记",
     "Open3D学习笔记/点云侠/24. 为点云添加均匀分布的随机噪声.md",
     "Open3D学习笔记/点云侠/25. 泊松盘采样.md",
     "Open3D学习笔记/点云侠/23. 为点云添加高斯噪声.md",
@@ -171,12 +185,8 @@
     "Open3D学习笔记/点云侠/12. 点云镜像变化.md",
     "Open3D学习笔记/点云侠/11. 点云投影到平面.md",
     "Open3D学习笔记/点云侠/10. 点云投影到球面.md",
-    "Open3D学习笔记/点云侠/09. FPS最远点下采样.md",
-    "Open3D学习笔记/点云侠/08. 删除点云中重叠的点.md",
-    "Open3D学习笔记/点云侠/07. 读取、可视化、保存mesh.md",
     "Open3D学习笔记/编译与配置/images/Eigen3官网.PNG",
     "Open3D学习笔记/编译与配置/images/make安装.PNG",
-    "Open3D学习笔记/编译与配置/images/CMake安装.PNG",
     "Open3D学习笔记/编译与配置/images",
     "Open3D学习笔记/点云侠"
   ]
