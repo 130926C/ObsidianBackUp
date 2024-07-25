@@ -3,6 +3,8 @@
 
 这里推荐如果是 Ubuntu 的话选择 `November 2023` 版本，因为最新的版本需要更新 `libc6` ，否则不能直接安装。
 
+有关服务器端配置的原文连接： https://blog.csdn.net/qq_33909269/article/details/136676954
+
 ----
 ### 服务器安装 
 
