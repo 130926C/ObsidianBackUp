@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open3D学习笔记/点云侠/29. Alpha Shape曲面重建.md",
+                "file": "Window10零碎笔记/Windows和Mac之间网络共享.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open3D学习笔记/点云侠/29. Alpha Shape曲面重建.md",
+                "file": "Window10零碎笔记/Windows和Mac之间网络共享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open3D学习笔记/点云侠/29. Alpha Shape曲面重建.md",
+                "file": "Window10零碎笔记/Windows和Mac之间网络共享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open3D学习笔记/点云侠/29. Alpha Shape曲面重建.md"
+                "file": "Window10零碎笔记/Windows和Mac之间网络共享.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0093f9077cd8d89e",
   "lastOpenFiles": [
-    "Open3D学习笔记/点云侠/28. 球旋转算法（BPA）三维建模.md",
     "Open3D学习笔记/点云侠/29. Alpha Shape曲面重建.md",
+    "Window10零碎笔记/Windows和Mac之间网络共享.md",
+    "Open3D学习笔记/点云侠/28. 球旋转算法（BPA）三维建模.md",
     "Open3D学习笔记/点云侠/27. 计算点云坐标最值及其索引.md",
     "Open3D学习笔记/点云侠/04. 获取点云坐标的最值.md",
     "Open3D学习笔记/点云侠/26. 泊松重建.md",
@@ -185,7 +186,6 @@
     "Open3D学习笔记/点云侠/17. 统计滤波.md",
     "Open3D学习笔记/点云侠/16. 半径滤波.md",
     "Open3D学习笔记/点云侠/15. 随机下采样.md",
-    "Open3D学习笔记/点云侠/14. 体素下采样.md",
     "Open3D学习笔记/编译与配置/images/Eigen3官网.PNG",
     "Open3D学习笔记/编译与配置/images",
     "Open3D学习笔记/点云侠"
