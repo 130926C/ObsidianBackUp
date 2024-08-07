@@ -13,7 +13,7 @@ $ cd Desktop/XianData/
 
 2. 开启python的http服务为8000的端口
 ```shell
-$ ~/Desktop/XianData $ python3 -m http.server 8000
+$ python3 -m http.server 8000
 Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ```
 

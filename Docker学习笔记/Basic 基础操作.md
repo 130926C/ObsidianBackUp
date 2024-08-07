@@ -6,12 +6,15 @@
 - 基础用法：[https://blog.csdn.net/weixin_57332537/article/details/129815299](https://blog.csdn.net/weixin_57332537/article/details/129815299)
 - 高级用法：[https://zhuanlan.zhihu.com/p/653244081](https://zhuanlan.zhihu.com/p/653244081)
 
+* 推荐文章：[Docker入门教程_docker_白豆五-GitCode 开源社区 (csdn.net)](https://gitcode.csdn.net/65b72878b8e5f01e1e4596ab.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NDkxNjA2LCJleHAiOjE3MjM2MzgwNTUsImlhdCI6MTcyMzAzMzI1NSwidXNlcm5hbWUiOiJuZW5jaG91bWkzMTE5In0.JxvaYjvd10zHcKcqwtUmv7m8rhVKE-ep3Gaw2urzwkI)
+
 ---
 
 #### 重要概念
 
 - image 镜像：已经稳定的容器，里面打包了所有可以用来发布的配置和可执行文件；
 - container 容器：正在开发的环境，所有修改都应该在容器中完成，最后再打包成镜像；
+- repository 仓库：用来存放镜像的地方，分为公有仓库和私有仓库；
 
 每次运行命令 `docker run` 如果不指定 `--name` 则会生成一个匿名容器，这个容器的配置就是镜像的配置；
 
@@ -193,3 +196,29 @@ $ docker run -P --name tomcat_muller tomcat:7
 ```
 $ docker run -p 8888:8080 --name tomcat_salah tomcat:7
 ```
+
+----
+
+####  将一个容器打包成文件用于传输
+
+```shell
+$ docker save -o name.rar mysql:lastest
+$ docker save -o name.rar mysql:5.7
+```
+
+----
+
+#### 加载打包成文件的镜像
+
+```shell
+$ docker load -i name.rar
+```
+
+
+---
+#### 删除镜像
+
+```shell
+$ docker rmi mysql:5.7
+```
+
