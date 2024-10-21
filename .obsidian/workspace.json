@@ -1,39 +1,76 @@
 {
   "main": {
-    "id": "4b2e05a62644c60d",
+    "id": "67ca895bb17dbb9e",
     "type": "split",
     "children": [
       {
-        "id": "797f0144649a4bce",
+        "id": "142c2eec85219bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "0093f9077cd8d89e",
+            "id": "942c7f6aa699833a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker学习笔记/Basic 基础操作.md",
+                "file": "Linux零碎笔记/Visual Studio Code 配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ac2db64f9c54a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/Install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11b0aa9851c6053d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git学习笔记/将一个分支使用另一个分支完全覆盖.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50943d86cf639b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git学习笔记/在没有git初始化的文件夹中关联远程仓库.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9322c23d1d5b7b18",
+    "id": "85c55cc9262e6293",
     "type": "split",
     "children": [
       {
-        "id": "beb704f5f6e8a548",
+        "id": "369151ade2a041a9",
         "type": "tabs",
         "children": [
           {
-            "id": "0b432c1502ec742f",
+            "id": "25f14fc658ac9015",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +80,7 @@
             }
           },
           {
-            "id": "1799ee18cb13c164",
+            "id": "5735253a8b5a587d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +95,7 @@
             }
           },
           {
-            "id": "8a1eccb7e202400b",
+            "id": "dd4709ac60c1f853",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +109,20 @@
     "width": 300
   },
   "right": {
-    "id": "1e7616dc4ce14716",
+    "id": "d4868fc8bf502bf3",
     "type": "split",
     "children": [
       {
-        "id": "c6cb791d9101919e",
+        "id": "36bc0f7eed3db1ac",
         "type": "tabs",
         "children": [
           {
-            "id": "9172e51001f98e99",
+            "id": "966d34d6121a6ee5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker学习笔记/Basic 基础操作.md",
+                "file": "Git学习笔记/在没有git初始化的文件夹中关联远程仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +134,19 @@
             }
           },
           {
-            "id": "e67340d1c707a1f1",
+            "id": "1ce2e6d4f900d383",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker学习笔记/Basic 基础操作.md",
+                "file": "Git学习笔记/在没有git初始化的文件夹中关联远程仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "940927b51365a131",
+            "id": "7578038f138c42ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +157,12 @@
             }
           },
           {
-            "id": "036a289464966712",
+            "id": "06f874168634cf72",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker学习笔记/Basic 基础操作.md"
+                "file": "Git学习笔记/在没有git初始化的文件夹中关联远程仓库.md"
               }
             }
           }
@@ -146,48 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0093f9077cd8d89e",
+  "active": "50943d86cf639b8e",
   "lastOpenFiles": [
-    "Linux零碎笔记/在局域网内URL共享文件.md",
+    "Git学习笔记/将一个分支使用另一个分支完全覆盖.md",
+    "Git学习笔记/在没有git初始化的文件夹中关联远程仓库.md",
+    "GoogleTest/gMock基本用法.md",
     "Git学习笔记/03 分支管理.md",
+    "Git学习笔记/01 初始化仓库 & 添加远程仓库.md",
+    "Git学习笔记/05 变基.md",
+    "ROS/Install.md",
     "Window10零碎笔记/Windows和Mac之间网络共享.md",
-    "Open3D学习笔记/点云侠/29. Alpha Shape曲面重建.md",
-    "Open3D学习笔记/点云侠/28. 球旋转算法（BPA）三维建模.md",
-    "Open3D学习笔记/点云侠/27. 计算点云坐标最值及其索引.md",
-    "Open3D学习笔记/点云侠/04. 获取点云坐标的最值.md",
-    "Open3D学习笔记/点云侠/26. 泊松重建.md",
-    "Open3D学习笔记/点云侠/25. 泊松盘采样.md",
-    "Qt学习笔记/使用VS Code写C++ Qt代码.md",
-    "Qt学习笔记/images/Qt配置vscode编译器路径.PNG",
-    "Qt学习笔记/在Windows平台安装Qt 5.15.2.md",
-    "Qt学习笔记/images/Qt配置环境变量.PNG",
-    "Qt学习笔记/images/Qt安装指定版本.PNG",
-    "Qt学习笔记/images/Qt安装选择界面.PNG",
-    "Qt学习笔记/images/Qt安装默认界面.PNG",
-    "Qt学习笔记/images/Qt安装发送界面.PNG",
-    "Qt学习笔记/images/Qt安装许可界面.PNG",
-    "Qt学习笔记/images/Qt安装登录界面.PNG",
-    "Qt学习笔记/images/清华镜像.PNG",
-    "Qt学习笔记/images",
-    "Qt学习笔记/New folder",
-    "Qt学习笔记",
-    "Open3D学习笔记/点云侠/24. 为点云添加均匀分布的随机噪声.md",
-    "Open3D学习笔记/点云侠/23. 为点云添加高斯噪声.md",
-    "Open3D学习笔记/点云侠/22. 隐点移除.md",
-    "Open3D学习笔记/编译与配置/CMake+ VS-Code 简单案例.md",
-    "Open3D学习笔记/编译与配置/Windows10 平台下的编译.md",
-    "Open3D学习笔记/点云侠/02. Ransac拟合平面分割点云.md",
-    "Open3D学习笔记/点云侠/03. DBSCAN密度聚类.md",
-    "Open3D学习笔记/点云侠/01. Open3D(C++) 读取、可视化并保存点云.md",
-    "Open3D学习笔记/编译与配置/常见错误与解决方案.md",
-    "Open3D学习笔记/编译与配置/Windows10 平台下编译并引用Eigen3.md",
-    "Open3D学习笔记/点云侠/21. 计算点云的归一化协方差矩阵与三维质心.md",
-    "Open3D学习笔记/点云侠/20. 计算每个点的协方差矩阵.md",
-    "Open3D学习笔记/点云侠/19. 计算点云质心.md",
-    "Open3D学习笔记/点云侠/18. 计算点云凸包.md",
-    "Open3D学习笔记/点云侠/17. 统计滤波.md",
-    "Open3D学习笔记/编译与配置/images/Eigen3官网.PNG",
-    "Open3D学习笔记/编译与配置/images",
-    "Open3D学习笔记/点云侠"
+    "Untitled",
+    "现代C++ CMake简明教程/P11 3.2 调用子目录中的CMake脚本.md",
+    "现代C++ CMake简明教程/P15 4.2 调用静态库和动态库.md",
+    "现代C++ CMake简明教程/P16 5 CMake与原文件交互.md",
+    "现代C++ CMake简明教程/P13 3.4 Object Library.md",
+    "现代C++ CMake简明教程/P14 4.1 CMake 生成动态库、静态库.md",
+    "现代C++ CMake简明教程/P12 3.3 CMakeLists 嵌套.md",
+    "现代C++ CMake简明教程/P08 2.5 CMake作用域.md",
+    "现代C++ CMake简明教程/P06 2.3 流程控制.md",
+    "现代C++ CMake简明教程/P03 1.3 在Linux下使用CMake.md",
+    "现代C++ CMake简明教程/P04 2.1 CMake语法message.md",
+    "Linux零碎笔记/Shell中的坑.md"
   ]
 }
