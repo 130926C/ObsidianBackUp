@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux零碎笔记/配置无密码重启、关机.md",
+                "file": "Vim学习笔记/Basic 基础操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置无密码重启、关机"
+              "title": "Basic 基础操作"
             }
           }
         ]
@@ -164,6 +164,13 @@
   },
   "active": "639f63fe09ab2a76",
   "lastOpenFiles": [
+    "现代C++ CMake简明教程/P10 3.1 直接写入源码路径方式构建项目.md",
+    "现代C++ CMake简明教程/ReadMe.md",
+    "现代C++ CMake简明教程/P15 4.2 调用静态库和动态库.md",
+    "现代C++ CMake简明教程/P07 2.4 CMake 语法 函数.md",
+    "现代C++ CMake简明教程/P04 2.1 CMake语法message.md",
+    "现代C++ CMake简明教程/P05 2.2 CMake语法set与list.md",
+    "现代C++ CMake简明教程/P12 3.3 CMakeLists 嵌套.md",
     "Linux零碎笔记/配置无密码重启、关机.md",
     "Linux零碎笔记/Visual Studio Code 配置.md",
     "ROS/Install.md",
@@ -176,15 +183,12 @@
     "Window10零碎笔记/Windows和Mac之间网络共享.md",
     "Untitled",
     "现代C++ CMake简明教程/P11 3.2 调用子目录中的CMake脚本.md",
-    "现代C++ CMake简明教程/P15 4.2 调用静态库和动态库.md",
     "现代C++ CMake简明教程/P16 5 CMake与原文件交互.md",
     "现代C++ CMake简明教程/P13 3.4 Object Library.md",
     "现代C++ CMake简明教程/P14 4.1 CMake 生成动态库、静态库.md",
-    "现代C++ CMake简明教程/P12 3.3 CMakeLists 嵌套.md",
     "现代C++ CMake简明教程/P08 2.5 CMake作用域.md",
     "现代C++ CMake简明教程/P06 2.3 流程控制.md",
     "现代C++ CMake简明教程/P03 1.3 在Linux下使用CMake.md",
-    "现代C++ CMake简明教程/P04 2.1 CMake语法message.md",
     "Linux零碎笔记/Shell中的坑.md"
   ]
 }
