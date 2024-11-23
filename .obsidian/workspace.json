@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44e40977f50a552d",
+        "id": "b0bc50612490d45c",
         "type": "tabs",
         "children": [
           {
-            "id": "49e6309497b0ddef",
+            "id": "f4f8e357bcf7b7d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMake常用用例/3-添加多个库.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3-添加多个库"
             }
           }
         ]
@@ -158,10 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49e6309497b0ddef",
+  "active": "f4f8e357bcf7b7d1",
   "lastOpenFiles": [
-    "LLM/本地部署LLM大语言模型.md",
+    "CMake常用用例/3-添加多个库.md",
+    "CMake常用用例/2-添加第三方源码-ppconsul.md",
+    "CMake常用用例/1-添加第三方源码-jsoncpp.md",
     "Linux零碎笔记/添加守护进程.md",
+    "LLM/本地部署LLM大语言模型.md",
     "LLM/images/webui.jpeg",
     "LLM/images/docker容器.jpeg",
     "LLM/images/codellama下载页面.jpeg",
@@ -174,7 +181,6 @@
     "LLM",
     "现代C++ CMake简明教程/P01 - 1.1 CMake 构建项目流程.md",
     "Vim学习笔记/Basic 基础操作.md",
-    "CMake常用用例/添加第三方源码.md",
     "CMake常用用例",
     "Linux零碎笔记/网络测试.md",
     "Git学习笔记/从远程仓库拉取指定分支或tag.md",
@@ -193,8 +199,6 @@
     "GoogleTest/gMock基本用法.md",
     "Git学习笔记/03 分支管理.md",
     "Git学习笔记/01 初始化仓库 & 添加远程仓库.md",
-    "Git学习笔记/05 变基.md",
-    "Window10零碎笔记/Windows和Mac之间网络共享.md",
-    "现代C++ CMake简明教程/P11 3.2 调用子目录中的CMake脚本.md"
+    "Git学习笔记/05 变基.md"
   ]
 }
