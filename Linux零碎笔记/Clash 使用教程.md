@@ -9,6 +9,10 @@ https://github.com/FB208/clash-linux-amd64-v1.2.0/blob/master/clash-linux-amd64
 
 为了防止这个链接也被和谐，我还在飞书、本地笔记的Append Files中保存了 Windows、MacOS （M 芯片）、Linux的备份，如果实在没办法就用这些老版本软件。
 
+或者在当前仓库中的 `sources` 文件夹中找到对应的版本：
+* Clash for Windows.app  -  MacOS；
+* clash-linux-amd64：Ubuntu18.04；
+
 ---
 ### Step2. 配置clash
 

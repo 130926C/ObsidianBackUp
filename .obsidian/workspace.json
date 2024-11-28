@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake常用用例/3-添加多个库.md",
+                "file": "Linux零碎笔记/Clash 使用教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-添加多个库"
+              "title": "Clash 使用教程"
             }
           }
         ]
@@ -164,6 +164,19 @@
   },
   "active": "f4f8e357bcf7b7d1",
   "lastOpenFiles": [
+    "sources/clash-linux-amd64",
+    "sources/Clash for Windows.app/Contents/PkgInfo",
+    "sources/Clash for Windows.app/Contents/Info.plist",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper (GPU).app/Contents/MacOS/Clash for Windows Helper (GPU)",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper (GPU).app/Contents/PkgInfo",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper (GPU).app/Contents/MacOS",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper (GPU).app/Contents/Info.plist",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper (GPU).app/Contents",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper (GPU).app",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper.app/Contents/MacOS/Clash for Windows Helper",
+    "sources/Clash for Windows.app/Contents/Frameworks/Clash for Windows Helper.app/Contents/PkgInfo",
+    "sources/Clash for Windows.app/Contents/Resources/static/imgs/logo_64_eyes.png",
+    "sources/Clash for Windows.app/Contents/Resources/static/imgs/logo_64.png",
     "CMake常用用例/3-添加多个库.md",
     "CMake常用用例/2-添加第三方源码-ppconsul.md",
     "CMake常用用例/1-添加第三方源码-jsoncpp.md",
@@ -175,13 +188,9 @@
     "LLM/images/ollama搜索页面.jpeg",
     "LLM/images/ollama官网-1.jpeg",
     "LLM/images/ollama 官网-1.jpeg",
-    "LLM/images",
     "Docker学习笔记/Basic 基础操作.md",
-    "本地部署LLM大语言模型",
-    "LLM",
     "现代C++ CMake简明教程/P01 - 1.1 CMake 构建项目流程.md",
     "Vim学习笔记/Basic 基础操作.md",
-    "CMake常用用例",
     "Linux零碎笔记/网络测试.md",
     "Git学习笔记/从远程仓库拉取指定分支或tag.md",
     "现代C++ CMake简明教程/P10 3.1 直接写入源码路径方式构建项目.md",
@@ -198,7 +207,6 @@
     "Git学习笔记/在没有git初始化的文件夹中关联远程仓库.md",
     "GoogleTest/gMock基本用法.md",
     "Git学习笔记/03 分支管理.md",
-    "Git学习笔记/01 初始化仓库 & 添加远程仓库.md",
-    "Git学习笔记/05 变基.md"
+    "Git学习笔记/01 初始化仓库 & 添加远程仓库.md"
   ]
 }
