@@ -13,19 +13,19 @@
 
 进入 LLama [官网](https://ollama.com) 找到对应操作系统版本号的安装包点击下载；
 
-![ollam官网-1](images/ollama官网-1.jpeg)
+![ollam官网-1](ollama官网-1.jpeg)
 
 ### Step2 在官网找到感兴趣的离线模型
 
 在官网右上角的 “Model” [界面](https://ollama.com/search) 输入关键字查找自己感兴趣的模型；
 
-![ollama搜索页面](images/ollama搜索页面.jpeg)
+![ollama搜索页面](ollama搜索页面.jpeg)
 
 ### Step3. 复制查找到的模型运行命令
 
 在这一步通常可以先选择合适的模型参数，以 `odellama` 为例，选择 `7b` 模型后复制运行命令 `ollama run codellama:7b` 到本地终端执行，如果本地没有这个模型则会自动进行下载
 
-![codellama下载页面](images/codellama下载页面.jpeg)
+![codellama下载页面](codellama下载页面.jpeg)
 
 ```shell
 (base) ~ $ ollama run codellama
@@ -80,11 +80,11 @@ eb4b02bece24: Waiting
 
 安装完成后进入 Docker Desktop 界面查看 Open WebUI 映射的端口号，通常是将 3000 映射到 8080 ，那么直接在浏览器中输入  `http://localhost:3000/` 即可进入 Web UI。
 
-![docker容器](images/docker容器.jpeg)
+![docker容器](docker容器.jpeg)
 
 如果弹出注册窗口随便注册一个即可，该信息并不会访问互联网，仅在本地存储；
 
-![webui](images/webui.jpeg)
+![webui](webui.jpeg)
 
 ---
 
@@ -155,14 +155,14 @@ if response.status_code == 200:
 
     print("Generated Code:\n", generated_code)
 
-    # # Step 4: 将生成的代码保存到文件中 - 这里存在bug，会在开头生成一个多余的话导致无法运行
+    # # Step 4: 将生成的代码保存到文件中 - 这里存在bug，会在开头生成一个多余行导致无法运行
     # with open("generated_code.py", "w") as code_file:
     #     code_file.write(generated_code)
 
     # Step 5: 执行生成的代码
-    print("\nExecuting Generated Code:")
-    result = subprocess.run(["python", "generated_code.py"], capture_output=True, text=True)
-    print(result.stdout)  # 输出代码执行结果
+    #bprint("\nExecuting Generated Code:")
+    # result = subprocess.run(["python", "generated_code.py"], capture_output=True, text=True)
+    # print(result.stdout)  # 输出代码执行结果
 else:
     print("Error:", response.status_code, response.text)
 
